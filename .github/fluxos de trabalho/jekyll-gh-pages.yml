@@ -1,0 +1,17 @@
+/**
+
+@name Tema dama de ferro
+@autor ˟MTSNUKEEϟ܍#9301
+@versão 1.0.0
+@description tema do IronMaiden(eddie). */
+@importar url('
+
+*     https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap https://discord-custom-covers.github.io/usrbg/dist/usrbg.css 
+*     https: //mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css
+*     https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+
+/* Variáveis ​​*/ :root { --avatar-size: 39px; --background-image: url(' 
+*   https://cdn.discordapp.com/attachments/1011434050822615110/1014345971708211250/26613.gif?size=4096 '); --home-image: url(' 
+*   https://cdn.discordapp.com/attachments/1019797493539676190/1019808348666855544/Capturar1.PNG '); --background-solid: #161921; --background-solid-dark: #101218; --fundo-sólido-mais escuro: #0c0e12; --acento: 37, 172, 232; --accent-alt: 29, 101, 134; }https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap https://discord-custom-covers.github.io/usrbg/dist/usrbg.css 
+
+');
